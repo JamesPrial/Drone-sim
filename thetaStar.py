@@ -1,3 +1,4 @@
+#depreciated
 from cmath import inf
 import math
 from random import randint, sample
